@@ -1,4 +1,4 @@
-Aqui está o conteúdo do seu `README.md` traduzido para o inglês:
+
 
 ---
 
